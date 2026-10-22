@@ -1,0 +1,10 @@
+{
+  "algorithm_validated": false,
+  "native_author_adapter_validated": false,
+  "physical_calibration_validated": false,
+  "protocol_reviewed": false,
+  "author_artifact": null,
+  "measurement_artifact": null,
+  "frozen_protocol_artifact": null,
+  "note": "Blocked proposal, not a runnable or accepted confirmatory protocol. Set true only after actual evidence exists and freeze a new source identity."
+}
