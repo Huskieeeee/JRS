@@ -1,0 +1,6 @@
+# Direct dependency versions from the recorded Python 3.12 validation.
+# A reference constraint set, not a transitive lockfile.
+numpy==2.3.5
+scipy==1.17.0
+pandas==2.2.3
+matplotlib==3.10.8
